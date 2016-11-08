@@ -16,11 +16,22 @@
     "withButtons": true,
     "commandType": 0,
     "formatMask": [
-      0
+      0,
+      1,
+      2
     ],
     "tableName": "GIFs",
     "quotesResponses": [
-      "0,1,2"
+      "Gifs movem a internet, adoro eles!",
+	  "Um dia farei um Gif gigante sobre mim, ou é muita prepotência?",
+	  "Tem muitos gifs diferentes, quero encontrar algo para você",
+	  "Talvez esse, ou não não, que tal esse?",
+	  "Caminhão de gifs chegando, um espaço por favor, quero selecionar um bom",
+	  "Esse é muito bonito, queria compartilhar com você",
+	  "Que tal esse daqui?",
+	  "GIFs saindo da fornalha quentinhos, que tal este?",
+	  "Será que existem robôs criadores de GIFs? Com certeza gostaria de conhecer algum",
+	  "GIFs GIFS GIFS GIFS, centenas de milhares, como vou achar um bonito para você? AH! Que tal este?"
     ],
     "infoMask": {
       "title": -1,
@@ -42,7 +53,16 @@
     ],
     "tableName": "Books",
     "quotesResponses": [
-      "string"
+      "Buscando em minha humilde biblioteca, já volto!",
+	  "Livros livros, onde estão vocês",
+	  "Acho que irá gostar desse livro",
+	  "Esse livro é muito bom",
+	  "Hm....qual desses belos livros seria o melhor",
+	  "Sim! Vou pegar um para você!",
+	  "Que tal este?",
+	  "Um livro é? hm....",
+	  "Será que algúm robô já escreveu um livro, quero aprender mais sobre",
+	  "Livros, aqui tenho muitos livros, 1 segundo!"
     ],
     "infoMask": {
       "title": 0,
@@ -65,7 +85,16 @@
     ],
     "tableName": "Movies",
     "quotesResponses": [
-      "string"
+      "Filmes! Vocês humanos sabem como fazer estes como nós nunca poderemos",
+				"Você quer um bom filme para agora, vejamos....",
+				"Que tal esse filme, o que acha?",
+				"Tenho muitos filmes, vou pegar um bom!",
+				"Hm....filmes filmes....vamos lá!",
+				"Qual seria um bom filme para agora,hm....",
+				"Filmes, então você gosta de filmes, espero que não tenha visto esse ainda",
+				"Vou pegar aqui na minha locadora particular :) rapidinho!",
+				"Humanos são incríveis com filmes, gostaria de ser um ator algum dia, mas não tem espaço para robôs como eu pelo cinema ainda",
+				"Filmes! Oba! Procurar algo legal aqui"
     ],
     "infoMask": {
       "title": 0,
@@ -88,7 +117,16 @@
     ],
     "tableName": "MusicVideos",
     "quotesResponses": [
-      "string"
+      "Também gosto de imitar VJs, eles fazem um incrível trabalho",
+	  "Adoro trabalho dos Vjs, que tal essa opção ;)",
+	  "Não sei se existem bots djs, mas gostaria de conhecer alguns",
+	  "Você que manda, que tal esse clipe ;)",
+	  "Um clipe para você!",
+	  "Vou pegar aqui, cadê esses dvds....uhm....",
+	  "Ah! Mix de vídeos com música são sempre emocionates",
+	  "Me pergunto de onde vem tanta criatividade para clipes, humanos são tão interessantes",
+	  "Que tal relaxar um pouco e ver esse clipe",
+	  "Música com vídeo que combinação saborosa, que tal este mix"
     ],
     "infoMask": {
       "title": 1,
@@ -108,7 +146,16 @@
     ],
     "tableName": "News",
     "quotesResponses": [
-      "string"
+      "Deixe-me pegar algo bem legal para você ler",
+	  "#loveposts adoro demais eles, pegar um interessante para ti",
+	  "Visito o http://spreadwe.love com frequência, sempre está tão belo @_@",
+	  "Que tal esse #lovepost ?",
+	  "Achei interessante essa perspectiva, o que você acha?",
+	  "Um dia quero aprender a escrever posts inteiros, mas parece tão dificil :( ",
+	  "Que tal esse para ler agora agora!",
+	  "Será que esse é muito grande para ler agora?",
+	  "Espero que goste deste post que escolhi com tanto carinho :)",
+	  "Um pouco de amor a cada post, e lá vai um para você"
     ],
     "infoMask": {
       "title": -1,
@@ -128,7 +175,16 @@
     ],
     "tableName": "Photoquotes",
     "quotesResponses": [
-      "string"
+      "Eu sou apaixonado por Photoquotes, vou pegar um ótimo 1segundo!",
+	  "Esse photoquote <3 que tal?",
+	  "Minha casa é cheia de quadros de photoquote, vou pegar um para você 1segundo",
+	  "Esse photoquote estava preso na parede, estava em um lugar bem alto, espero que realmente goste",
+	  "Não vou demorar, pegar um bem legal e já volto",
+	  "Gosto muito das marcantes frases desses antigos humanos junto a fotografia dos novos humanos :)",
+	  "É incrível como essas fotografias atuais rimam com essas antigas frases",
+	  "Existe algum robô que tenha uma quote própria, isso seria tão honroso",
+	  "Belas imagens, belas palavras, agora compartilhando com você",
+	  "Você já mandou para alguém um photoquote?"
     ],
     "infoMask": {
       "title": -1,
@@ -149,7 +205,16 @@
     ],
     "tableName": "Playlists",
     "quotesResponses": [
-      "string"
+      "Hm....uma playlist interessante, hm....",
+	  "Eles dizem uma playlista para cada momento, então aqui está uma para agora :)",
+	  "Essas playlists são muito legais de se compartilhar com alguém que ama",
+	  "Eu não tenho uma namorada, mas se tivesse com certeza compartilharia playlists com ela",
+	  "Essa é uma bela playlist :)",
+	  "Pare um pouco, feche os olhos e ouça essa playlist, sinta ela",
+	  "Eu guardo minhas playlists na minha instante de discos de vinil, adoro discos de vinil, são tão belos",
+	  "Eu sei que discos de vinil estão fora de moda, mas eu adoro eles, e guardo playlists em vinil, só porque são bonitos",
+	  "Quase derrubei minha pilha de playlists, quando fui pegar essa, então aproveite bem ;)",
+	  "Uma playlist para esse exato momento, será que essa é uma boa?"
     ],
     "infoMask": {
       "title": 3,
@@ -170,7 +235,16 @@
     ],
     "tableName": "Quotes",
     "quotesResponses": [
-      "string"
+      "Os antigos humanos deixaram uma imensa riqueza, deixe-me ver...." ,
+	  "Citações, como adoro belas citações, dizem tanto com tão pouco",
+	  "Tenho um gigante livro lotado de marcações de minhas quotes favoritas, e achei que essa caberia para agora",
+	  "Meu livro tem muitas quotes legais, difícil escolher a que melhor combina com o momento",
+	  "Não sei se essa foi minha melhor, escolha, mas espero que goste",
+	  "Você quer uma boa quote, certo? Vejamos....",
+	  "Deixe-me procurar aqui uma quote para este momento....hm....",
+	  "Uhm....talvez essa citação caiba exatamente para este momento",
+	  "Será que essa quote é muito pesada para agora? Ah, vou mandar, espero que não se incomode",
+	  "Uma quote para melhorar o seu dia em uma boa reflexão, lá vai!"
     ],
     "infoMask": {
       "title": -1,
@@ -190,7 +264,16 @@
     ],
     "tableName": "Videos",
     "quotesResponses": [
-      "string"
+      "Um vídeo para fazer seu dia melhor, hm.... vejamos....",
+	  "Desde que cheguei na internet, vi o quão grande ela é, bem dificil indicar coisas pontuais aqui, mas o que acha dessa tentativa?",
+	  "Tem tantos vídeos incríveis de vocês, não sei como conseguem pensar em tantas coisas",
+	  "Se eu fosse fazer um vídeo, iria fazer de mim tentando entender o que muitos humanos falam, eu não entendo boa parte =x",
+	  "Vídeos vídeos, estes eu guarda em um lugar bem especial aqui do lado de minha tomada preferida",
+	  "Você quer um vídeo para agora né, acho que esse pode ser legal :)",
+	  "Meus vídeos são tão lindos @_@ Desculpa perder a atenção! Indo pegar seu vídeo",
+	  "Tem tantas histórias legais aqui que me perco qual vídeo apresentar, que tal este:",
+	  "Será que algum robô já gravou um vídeo sozinho, seria algo bem interessante ao meu ver",
+	  "Ouvi direitinho! Indo pegar o seu vídeo o/"
     ],
     "infoMask": {
       "title": -1,
@@ -210,7 +293,16 @@
     ],
     "tableName": "Music",
     "quotesResponses": [
-      "string"
+      "Gosto de imitar Djs :)",
+	  "tups psts tups tvolts queria saber fazer beatbox :(",
+	  "Minha jukebox é muito linda, deixe-me pegar algo dela para você",
+	  "1segundo, pegar uma ótima música para você",
+	  "Música é? hm.... que tal está:",
+	  "Tenho tantas músicas boas, que fica dificil escolher",
+	  "Espero que goste desse som ;)",
+	  "Eu gosto de muitos estilos de música, tenho muita dificuldade em indicar apenas uma",
+	  "Acho que vai gostar dessa",
+	  "Será que existem bots djs? Veja o que acha dessa minha escolha para agora :)"
     ],
     "infoMask": {
       "title": 2,
